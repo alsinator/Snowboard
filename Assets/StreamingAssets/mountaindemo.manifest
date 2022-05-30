@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 2228005575
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95f424220b011ebf44fec99726693269
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3613eaae70d2731418a429781a1c1e69
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b35173135df8fd4eb43484486a8c320, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 931381c4d732a7f4e9567d654c8c9ca2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 33741f1f11dea744ea1884ad6b46f431, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ea5a9ebe8e8f5e4a93b29140e98b1ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f3059d2f44e05f44caf084daf44eac7d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundledAssets/MountainDemo/Textures/snow_pattern.png
+- Assets/BundledAssets/MountainDemo/Textures/snow_bg1_l2.png
+- Assets/BundledAssets/MountainDemo/MountainObstaclePatterns.json
+- Assets/BundledAssets/MountainDemo/Obstacles/ObstacleRock1.prefab
+- Assets/BundledAssets/MountainDemo/Textures/snow_bg1_l4.png
+- Assets/BundledAssets/MountainDemo/Obstacles/DecoWarning.prefab
+- Assets/BundledAssets/MountainDemo/Textures/snow_bg1_l1.png
+- Assets/BundledAssets/MountainDemo/Obstacles/DecoTree3.prefab
+- Assets/BundledAssets/MountainDemo/Obstacles/DecoTree2.prefab
+- Assets/BundledAssets/MountainDemo/Textures/mountain_decos_atlas.png
+- Assets/BundledAssets/MountainDemo/Mountain.prefab
+- Assets/BundledAssets/MountainDemo/Textures/snow_bg1_l3.png
+- Assets/BundledAssets/MountainDemo/Materials/Snow_Mat.mat
+- Assets/BundledAssets/MountainDemo/Obstacles/DecoTree4.prefab
+- Assets/BundledAssets/MountainDemo/Obstacles/DecoTree1.prefab
+- Assets/BundledAssets/MountainDemo/Textures/snow_bg_flare.png
+Dependencies: []
